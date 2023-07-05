@@ -1,0 +1,15 @@
+{
+  "name": "aws-documentdb-changes-stream",
+  "version": "1.0.0",
+  "description": "AWS DocumentDB changes stream demo based on AWS IoT Chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.341.0",
+    "mongodb": "^4.16.0"
+  }
+}
